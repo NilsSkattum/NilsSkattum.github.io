@@ -4,6 +4,10 @@ h1{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
+body {
+    background-color: fuchsia;
+}
+
 ol {
     padding: 0px;
     margin: 0px;
