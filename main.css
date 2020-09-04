@@ -29,5 +29,6 @@ h3{
 }
 
 img {
-    background-size: contain;
+    width: 100%;
+    height: auto;
 }
