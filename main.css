@@ -13,6 +13,10 @@ ol {
     margin: 0px;
 }
 
+p {
+    color: white;
+}
+
 li {
     list-style-type: none;
     display: inline-block;
