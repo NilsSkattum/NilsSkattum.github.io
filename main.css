@@ -17,3 +17,8 @@ li {
     margin: 0px;
     padding: 10px;
 }
+
+li:hover {
+    background-color: black;
+    color: red;
+}
