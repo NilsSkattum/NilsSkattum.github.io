@@ -17,6 +17,10 @@ p {
     color: white;
 }
 
+p.nepal{
+    color: red;
+}
+
 li {
     list-style-type: none;
     display: inline-block;
