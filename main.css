@@ -47,6 +47,15 @@ li:hover {
     color: red;
 }
 
+li.back:hover {
+    background-color: black;
+    color: red;
+}
+
+li.back{
+    color: white;
+}
+
 h3{
     text-align: center;
 
