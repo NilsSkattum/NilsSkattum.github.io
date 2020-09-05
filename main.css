@@ -36,6 +36,12 @@ p {
 
 .nepal1{
     background-color:green;
+    border: 1px solid;
+}
+
+.nepal2{
+    background-color: orange;
+    border: 1px solid;
 }
 
 p.nepal{
