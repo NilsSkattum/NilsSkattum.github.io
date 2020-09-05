@@ -64,3 +64,8 @@ img {
 h2 {
     text-align: center;
 }
+
+img.license{
+    width: auto;
+    height: auto;
+}
