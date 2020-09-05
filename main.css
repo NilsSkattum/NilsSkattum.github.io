@@ -23,9 +23,7 @@ body.mywork{
     background-color: yellow;
 }
 
-span{
-    color: black;
-}
+
 
 ol {
     padding: 0px;
@@ -36,6 +34,9 @@ p {
     color: white;
 }
 
+.nepal1{
+    background-color:green;
+}
 
 p.nepal{
     color:yellow;
