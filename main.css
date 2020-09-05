@@ -47,12 +47,7 @@ li:hover {
     color: red;
 }
 
-li.back:hover {
-    background-color: black;
-    color: red;
-}
-
-li.back{
+ol.back{
     color: white;
 }
 
