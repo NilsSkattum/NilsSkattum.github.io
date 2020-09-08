@@ -23,7 +23,13 @@ body.mywork{
     background-color: blue;
 }
 
+.titlefont{
+    font-family:fantasy;
+}
 
+.underline{
+    text-decoration:underline;
+}
 
 ol {
     padding: 0px;
@@ -34,8 +40,8 @@ p {
     color: white;
 }
 
-.para{
-    color:black;
+.pc{
+    border: 0.5px solid;
 }
 
 .nepal1{
