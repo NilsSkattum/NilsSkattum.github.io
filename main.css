@@ -18,7 +18,7 @@ body.mywork{
     background-color: grey;
 }
 
-.color{
+a.color{
     border: 1px solid;
     background-color: blue;
 }
@@ -28,12 +28,16 @@ body.mywork{
 }
 
 .underline{
-    text-decoration:underline;
+    text-decoration: underline;
 }
 
 ol {
     padding: 0px;
     margin: 0px;
+}
+
+a.hover{
+    color: green;
 }
 
 p {
